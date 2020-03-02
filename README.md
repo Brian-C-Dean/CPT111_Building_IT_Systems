@@ -1,1 +1,2 @@
-# CPT111_Building_IT_Systems
+# CPT111 Building IT Systems
+An online course conducted by RMIT.
